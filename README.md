@@ -1,0 +1,1 @@
+# SQL_Checkered_Flag_Join_Diagram
