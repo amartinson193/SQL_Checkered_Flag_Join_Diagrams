@@ -1,1 +1,1 @@
-# SQL_Checkered_Flag_Join_Diagram
+# SQL Checkered Flag Join Diagram
